@@ -13,8 +13,7 @@ A comprehensive toolkit for neural network interpretability and safety analysis,
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [Licence](#licence)
-
+- 
 ## 🔍 Overview
 
 SAFINT provides a unified platform for analysing neural network safety properties through:
@@ -662,16 +661,7 @@ with open("my_analyzer.py", "w") as f:
     f.write(template)
 ```
 
-## 📄 Licence
 
-This project is licensed under the MIT Licence. See the [LICENCE](LICENCE) file for details.
-
-## 🆘 Support
-
-### Documentation
-- [API Reference](docs/api.md)
-- [Plugin Development Guide](docs/plugins.md)
-- [Examples Repository](examples/)
 
 
 ---
